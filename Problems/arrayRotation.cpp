@@ -1,5 +1,7 @@
 /*
 Q. Given Array of N integers and K, rotate elements of array K times in left to right direction.
+
+just edited to test git
 */
 
 #include<bits/stdc++.h>
