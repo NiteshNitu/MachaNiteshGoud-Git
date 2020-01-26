@@ -7,8 +7,9 @@ just edited to test git
 #include<bits/stdc++.h>
 
 using namespace std;
-int a[10001];
+
 int main() {
+    int a[10001];
     int t;
     cin>>t;
     while(t--) {
